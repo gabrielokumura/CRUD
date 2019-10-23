@@ -1,0 +1,10 @@
+C:\csharp\CRUD\Site01\bin\Site01.dll.config
+C:\csharp\CRUD\Site01\bin\Site01.dll
+C:\csharp\CRUD\Site01\bin\Site01.pdb
+C:\csharp\CRUD\Site01\obj\Debug\Site01.csprojAssemblyReference.cache
+C:\csharp\CRUD\Site01\obj\Debug\Site01.csproj.CoreCompileInputs.cache
+C:\csharp\CRUD\Site01\obj\Debug\Site01.dll
+C:\csharp\CRUD\Site01\obj\Debug\Site01.pdb
+C:\csharp\CRUD\Site01\bin\DAL.dll
+C:\csharp\CRUD\Site01\bin\DAL.pdb
+C:\csharp\CRUD\Site01\obj\Debug\Site01.csproj.CopyComplete
